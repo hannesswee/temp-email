@@ -1,9 +1,3 @@
-```
-# Etique 🚀
-
-A sleek, privacy‑first disposable email service that gives you instant, anonymous addresses—no sign‑up required!
-
-```
 # 💫 Website: 
 ```markdown
 ## 🔍 About Etique

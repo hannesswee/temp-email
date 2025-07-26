@@ -1,4 +1,5 @@
 # 💫 Website: https://hannesswee.github.io/temp-email/
+## 🤷🏻‍♂️ Please note that the e-mails you receive may take up to 1 minute to show up in the inbox.
 ```markdown
 ## 🔍 About Etique
 
